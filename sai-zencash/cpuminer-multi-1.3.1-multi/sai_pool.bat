@@ -1,0 +1,1 @@
+miner --server stratum+tcp://107.173.118.210 --user znYnbSYnMFSZqyk1VMzHE6QNiP7pp6RH7FE --pass x --port 3032
